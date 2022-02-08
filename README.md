@@ -5,9 +5,11 @@ Sou aulo da <b>UFPEL</b> no curso de <b>C.C.</b>
 <ul>
   <li/>Estou estudando atualmente <b>ReactJs 
 </ul>
-
+  
 <a href="https://github.com/Juliano-hub">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juliano-hub&repo=github-readme-stats&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Juliano-hub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-hub&layout=compact&theme=tokyonight" />
 </a>
 
