@@ -1,6 +1,6 @@
 ### Olá, sou o Juliano! <br/>
 
-Sou aulo da <b>UFPEL</b> no curso de <b>C.C.</b> 
+Sou aluno da <b>UFPEL</b> no curso de <b>C.C.</b> 
 
 <ul>
   <li/>Estou estudando atualmente <b>ReactJs 
