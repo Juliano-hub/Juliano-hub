@@ -7,10 +7,10 @@ Sou aulo da <b>UFPEL</b> no curso de <b>C.C.</b>
 </ul>
   
 <a href="https://github.com/Juliano-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juliano-hub&repo=github-readme-stats&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Juliano-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Juliano-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-hub&layout=compact&theme=tokyonight" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-hub&layout=compact&theme=tokyonight" />
 </a>
 
 <!--
