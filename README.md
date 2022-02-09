@@ -1,4 +1,4 @@
-<h1> Olá, sou o Juliano! <br/> </h1>
+<h1> Olá, sou o Juliano!👋 <br/> </h1>
 
 Sou aluno da <b>UFPEL</b> no curso de <b>C.C.</b> 
 
